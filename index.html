@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Smart Quiz App</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+  <h1>Smart Quiz App</h1>
+
+  <div id="quiz-box">
+    <h2 id="question">Question here</h2>
+
+    <div id="options"></div>
+
+    <p>Time Left: <span id="timer">15</span>s</p>
+
+    <button onclick="nextQuestion()">Next</button>
+  </div>
+
+  <div id="result-box" class="hidden">
+    <h2>Your Score: <span id="score"></span></h2>
+    <button onclick="restartQuiz()">Restart</button>
+  </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
