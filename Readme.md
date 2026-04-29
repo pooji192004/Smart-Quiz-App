@@ -17,4 +17,4 @@ An interactive quiz application with timer and score tracking.
 # Screenshots
 -https://github.com/pooji192004/Smart-Quiz-App/blob/main/Home.png
 -https://github.com/pooji192004/Smart-Quiz-App/blob/main/Quiz.png
--
+-https://github.com/pooji192004/Smart-Quiz-App/blob/main/Result.png
