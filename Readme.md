@@ -15,6 +15,6 @@ An interactive quiz application with timer and score tracking.
 - JavaScript
 
 # Screenshots
--
+-https://github.com/pooji192004/Smart-Quiz-App/blob/main/Home.png
 -
 -
