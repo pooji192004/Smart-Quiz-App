@@ -13,3 +13,8 @@ An interactive quiz application with timer and score tracking.
 - HTML
 - CSS
 - JavaScript
+
+# Screenshots
+-
+-
+-
